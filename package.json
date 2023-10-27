@@ -1,0 +1,10 @@
+{
+  "name": "@constfitness/types",
+  "version": "1.0.0",
+  "description": "gym shared-types",
+  "types": "index.ts",
+  "repository": "git@github.com:ianstreator/gym-types.git",
+  "author": "<ianstreator+github@gmail.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
